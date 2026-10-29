@@ -1,0 +1,3 @@
+# domínio principal: www.valverderesidence.pt (o endereço sem www redireciona para ele)
+https://valverderesidence.pt/*  https://www.valverderesidence.pt/:splat  301!
+http://valverderesidence.pt/*   https://www.valverderesidence.pt/:splat  301!
